@@ -2,7 +2,7 @@ import socket
 
 HEADER = 64
 PORT = 5050
-SERVER = '192.168.1.8'
+SERVER = ''
 FORMAT = 'utf-8'
 EXIT = 'exit'
 ADDR = (SERVER,PORT)
